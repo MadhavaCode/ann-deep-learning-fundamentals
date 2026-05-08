@@ -1,4 +1,4 @@
-# ann-deep-learning-fundamentals
+# ANN Deep Learning Fundamentals
 
 22 notebooks on Artificial Neural Networks — from perceptron to production-ready models.
 
